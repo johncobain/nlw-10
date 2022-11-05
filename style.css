@@ -40,7 +40,7 @@ body * {
 #app {
   width: fit-content;
   margin:auto;
-  padding-top: 52px;
+  padding: 52px 0;
 }
 
 header {
